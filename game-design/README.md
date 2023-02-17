@@ -1,3 +1,5 @@
+# Game Design 
+
 Game design is the process of creating the rules, mechanics, objectives, and overall structure of a game. It's an interdisciplinary field that encompasses many different aspects of game development, including art, programming, writing, and psychology.
 
 Here are some of the main aspects of game design:
