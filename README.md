@@ -5,7 +5,7 @@ Exploring what ChatGPT has to say about AAA game development. Intended for resea
 
 Developing a AAA game is a complex process that involves many aspects. Here are some of the major development aspects of a AAA game:
 
-1. Game Design: This involves designing the overall game mechanics, rules, objectives, levels, and storyline.
+1. [Game Design](game-design): This involves designing the overall game mechanics, rules, objectives, levels, and storyline.
 2. Graphics and Art: This includes creating 3D models, textures, animations, and other visual elements to bring the game world and its characters to life.
 3. Audio: This includes composing music, creating sound effects, and recording voiceovers for the game's dialogue.
 4. Programming: This includes writing the code that powers the game, including the game engine, AI, physics, networking, and other systems.
